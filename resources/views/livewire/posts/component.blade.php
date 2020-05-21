@@ -16,7 +16,7 @@
     @else
         @include('livewire.posts.create')
     @endif
-      
+
     <table class="table table-striped mt-3">
         <thead>
         <tr>
